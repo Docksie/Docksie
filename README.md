@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Docksie
+- 👋 Hi, I’m Docksie
+- 🌱 Undergraduate at UTSA
 - 👀 I’m interested in 3D Modeling, Games, and Software Development.
-- 🌱 I have certifications in front-end development from Coursera, freecodecamp, and OpenEDG.
+ 
 
 <!---
 Docksie/Docksie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
