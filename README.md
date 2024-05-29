@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Docksie
-- 🌱 Undergraduate at UTSA
+- 🌱 Shibarium Dev
 - 👀 I’m interested in 3D Modeling, Games, and Software Development.
  
 
