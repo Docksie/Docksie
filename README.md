@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Docksie
-- 🌱 Shibarium Dev
-- 👀 I’m interested in 3D Modeling, Games, and Software Development.
- 
+- 🌱 Dev
+- 👀 I’m the creator of a telegram gambling bot that supports all blockchains.
 
 <!---
 Docksie/Docksie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
